@@ -175,3 +175,8 @@
 
 - Explored Polkadot parachain slot auction mechanism
 
+
+## April 10, 2026
+
+- Studied Ethereum blob storage and data availability sampling
+
