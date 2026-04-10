@@ -180,3 +180,5 @@
 
 - Studied Ethereum blob storage and data availability sampling
 
+- Explored Hyperledger Identus credential schema definitions
+
