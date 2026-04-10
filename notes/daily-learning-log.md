@@ -182,3 +182,5 @@
 
 - Explored Hyperledger Identus credential schema definitions
 
+- Reviewed Hardhat network forking for mainnet testing
+
