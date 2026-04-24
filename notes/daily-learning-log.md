@@ -5,3 +5,5 @@
 
 - Reviewed ERC-20 token standard implementation details
 
+- Explored cross-chain bridge security considerations
+
