@@ -14,3 +14,5 @@
 
 - Learned about zk-SNARK proof generation basics
 
+- Studied DeFi protocol architecture patterns
+
