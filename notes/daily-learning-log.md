@@ -16,3 +16,5 @@
 
 - Studied DeFi protocol architecture patterns
 
+- Reviewed smart contract upgrade proxy patterns
+
