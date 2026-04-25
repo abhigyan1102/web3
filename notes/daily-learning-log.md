@@ -12,3 +12,5 @@
 
 - Researched account abstraction ERC-4337
 
+- Learned about zk-SNARK proof generation basics
+
