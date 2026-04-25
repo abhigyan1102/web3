@@ -7,3 +7,8 @@
 
 - Explored cross-chain bridge security considerations
 
+
+## April 25, 2026
+
+- Researched account abstraction ERC-4337
+
