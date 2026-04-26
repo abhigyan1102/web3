@@ -23,3 +23,5 @@
 
 - Explored Hyperledger Identus DID resolution flow
 
+- Researched verifiable credential issuance process
+
