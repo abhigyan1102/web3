@@ -18,3 +18,8 @@
 
 - Reviewed smart contract upgrade proxy patterns
 
+
+## April 26, 2026
+
+- Explored Hyperledger Identus DID resolution flow
+
