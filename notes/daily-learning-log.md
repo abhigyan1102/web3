@@ -25,3 +25,8 @@
 
 - Researched verifiable credential issuance process
 
+
+## April 27, 2026
+
+- Studied Solana program derived addresses
+
