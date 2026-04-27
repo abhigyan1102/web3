@@ -30,3 +30,5 @@
 
 - Studied Solana program derived addresses
 
+- Reviewed MEV protection strategies
+
