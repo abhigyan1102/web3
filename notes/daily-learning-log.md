@@ -32,3 +32,5 @@
 
 - Reviewed MEV protection strategies
 
+- Explored rollup data availability solutions
+
