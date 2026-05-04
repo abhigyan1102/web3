@@ -41,3 +41,5 @@
 
 - Reviewed token bonding curve mathematics
 
+- Explored decentralized storage solutions comparison
+
