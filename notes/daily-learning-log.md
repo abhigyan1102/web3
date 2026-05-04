@@ -39,3 +39,5 @@
 
 - Studied Bitcoin Script and Taproot upgrades
 
+- Reviewed token bonding curve mathematics
+
