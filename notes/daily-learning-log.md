@@ -34,3 +34,8 @@
 
 - Explored rollup data availability solutions
 
+
+## May 4, 2026
+
+- Studied Bitcoin Script and Taproot upgrades
+
