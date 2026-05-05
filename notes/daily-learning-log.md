@@ -43,3 +43,8 @@
 
 - Explored decentralized storage solutions comparison
 
+
+## May 5, 2026
+
+- Researched SSI trust triangle architecture
+
