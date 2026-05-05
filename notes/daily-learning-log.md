@@ -52,3 +52,5 @@
 
 - Studied Ethereum state trie optimization
 
+- Reviewed gas estimation and transaction simulation
+
