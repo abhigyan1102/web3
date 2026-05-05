@@ -48,3 +48,5 @@
 
 - Researched SSI trust triangle architecture
 
+- Learned about BBS+ signatures for selective disclosure
+
