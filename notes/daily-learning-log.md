@@ -50,3 +50,5 @@
 
 - Learned about BBS+ signatures for selective disclosure
 
+- Studied Ethereum state trie optimization
+
