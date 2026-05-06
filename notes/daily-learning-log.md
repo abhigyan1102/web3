@@ -63,3 +63,5 @@
 
 - Learned about credential revocation mechanisms
 
+- Studied Hyperledger Besu private transactions
+
