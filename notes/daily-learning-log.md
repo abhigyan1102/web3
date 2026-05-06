@@ -59,3 +59,5 @@
 
 - Explored cross-chain messaging protocols
 
+- Researched DID communication protocols
+
