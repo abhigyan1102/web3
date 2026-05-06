@@ -65,3 +65,5 @@
 
 - Studied Hyperledger Besu private transactions
 
+- Reviewed Solidity assembly and Yul basics
+
