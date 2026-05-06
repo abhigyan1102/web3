@@ -61,3 +61,5 @@
 
 - Researched DID communication protocols
 
+- Learned about credential revocation mechanisms
+
