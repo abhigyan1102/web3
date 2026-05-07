@@ -72,3 +72,5 @@
 
 - Explored flash loan attack vectors and prevention
 
+- Researched staking protocol design considerations
+
