@@ -67,3 +67,8 @@
 
 - Reviewed Solidity assembly and Yul basics
 
+
+## May 7, 2026
+
+- Explored flash loan attack vectors and prevention
+
