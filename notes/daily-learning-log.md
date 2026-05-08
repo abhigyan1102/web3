@@ -89,3 +89,5 @@
 
 - Learned about formal verification of smart contracts
 
+- Studied Rust ownership model for blockchain development
+
