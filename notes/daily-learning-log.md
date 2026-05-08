@@ -79,3 +79,5 @@
 
 - Learned about on-chain governance mechanisms
 
+- Studied NFT metadata standards and IPFS pinning
+
