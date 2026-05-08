@@ -81,3 +81,5 @@
 
 - Studied NFT metadata standards and IPFS pinning
 
+- Reviewed blockchain indexing with The Graph
+
