@@ -74,3 +74,8 @@
 
 - Researched staking protocol design considerations
 
+
+## May 8, 2026
+
+- Learned about on-chain governance mechanisms
+
