@@ -83,3 +83,5 @@
 
 - Reviewed blockchain indexing with The Graph
 
+- Explored layer 2 scaling solutions comparison
+
