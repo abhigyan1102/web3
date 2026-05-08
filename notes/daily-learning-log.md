@@ -85,3 +85,5 @@
 
 - Explored layer 2 scaling solutions comparison
 
+- Researched oracle design patterns for DeFi
+
