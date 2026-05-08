@@ -87,3 +87,5 @@
 
 - Researched oracle design patterns for DeFi
 
+- Learned about formal verification of smart contracts
+
