@@ -91,3 +91,5 @@
 
 - Studied Rust ownership model for blockchain development
 
+- Reviewed WebAssembly smart contract runtimes
+
