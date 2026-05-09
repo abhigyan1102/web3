@@ -134,3 +134,5 @@
 
 - Learned about intent-based transaction architectures
 
+- Reviewed Uniswap v4 hooks architecture
+
