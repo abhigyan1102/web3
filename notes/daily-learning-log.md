@@ -130,3 +130,5 @@
 
 - Explored ERC-1155 multi-token standard design patterns
 
+- Researched MEV-Share protocol and order flow auctions
+
