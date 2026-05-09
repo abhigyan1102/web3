@@ -132,3 +132,5 @@
 
 - Researched MEV-Share protocol and order flow auctions
 
+- Learned about intent-based transaction architectures
+
