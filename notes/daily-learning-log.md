@@ -128,3 +128,5 @@
 
 - Studied zero-knowledge proof systems comparison (Groth16 vs PLONK)
 
+- Explored ERC-1155 multi-token standard design patterns
+
