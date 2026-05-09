@@ -123,3 +123,8 @@
 
 - Explored Solana token extensions program
 
+
+## May 9, 2026
+
+- Studied zero-knowledge proof systems comparison (Groth16 vs PLONK)
+
