@@ -141,3 +141,5 @@
 
 - Studied Solidity custom error types and gas savings
 
+- Explored Diamond proxy pattern (EIP-2535)
+
