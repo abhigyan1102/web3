@@ -136,3 +136,8 @@
 
 - Reviewed Uniswap v4 hooks architecture
 
+
+## May 11, 2026
+
+- Studied Solidity custom error types and gas savings
+
