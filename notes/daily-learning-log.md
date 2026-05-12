@@ -143,3 +143,8 @@
 
 - Explored Diamond proxy pattern (EIP-2535)
 
+
+## May 12, 2026
+
+- Researched Eigenlayer restaking mechanism and AVS design
+
