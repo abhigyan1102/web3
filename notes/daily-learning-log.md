@@ -155,3 +155,5 @@
 
 - Explored Foundry testing framework and fuzz testing
 
+- Researched cross-domain MEV and sequencer design
+
