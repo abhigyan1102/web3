@@ -157,3 +157,5 @@
 
 - Researched cross-domain MEV and sequencer design
 
+- Learned about AnonCreds and privacy-preserving credentials
+
