@@ -148,3 +148,8 @@
 
 - Researched Eigenlayer restaking mechanism and AVS design
 
+
+## May 15, 2026
+
+- Studied ERC-4626 tokenized vault standard
+
