@@ -153,3 +153,5 @@
 
 - Studied ERC-4626 tokenized vault standard
 
+- Explored Foundry testing framework and fuzz testing
+
