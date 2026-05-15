@@ -159,3 +159,5 @@
 
 - Learned about AnonCreds and privacy-preserving credentials
 
+- Reviewed Hyperledger Aries credential exchange protocol
+
