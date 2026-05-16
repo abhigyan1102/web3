@@ -166,3 +166,5 @@
 
 - Studied Solidity inline assembly for gas optimization
 
+- Explored NEAR Protocol sharding architecture
+
