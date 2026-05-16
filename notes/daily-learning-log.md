@@ -161,3 +161,8 @@
 
 - Reviewed Hyperledger Aries credential exchange protocol
 
+
+## May 16, 2026
+
+- Studied Solidity inline assembly for gas optimization
+
