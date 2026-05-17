@@ -98,3 +98,5 @@
 
 - Studied privacy-preserving transaction techniques
 
+- Researched DAO treasury management strategies
+
