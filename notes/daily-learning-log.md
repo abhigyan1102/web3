@@ -100,3 +100,5 @@
 
 - Researched DAO treasury management strategies
 
+- Learned about multi-sig wallet implementations
+
