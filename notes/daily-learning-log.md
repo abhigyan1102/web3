@@ -114,3 +114,5 @@
 
 - Learned about Verkle trees for Ethereum state
 
+- Studied blob transactions and EIP-4844 proto-danksharding
+
