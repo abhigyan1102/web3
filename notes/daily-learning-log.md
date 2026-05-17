@@ -102,3 +102,5 @@
 
 - Learned about multi-sig wallet implementations
 
+- Explored EIP-1559 fee market mechanism
+
