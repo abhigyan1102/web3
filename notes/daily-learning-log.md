@@ -106,3 +106,5 @@
 
 - Studied Merkle Patricia trie data structures
 
+- Reviewed optimistic vs zk rollup tradeoffs
+
