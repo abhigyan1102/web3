@@ -110,3 +110,5 @@
 
 - Explored Chainlink CCIP cross-chain interoperability
 
+- Researched ERC-6900 modular account standard
+
