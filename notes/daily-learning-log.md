@@ -112,3 +112,5 @@
 
 - Researched ERC-6900 modular account standard
 
+- Learned about Verkle trees for Ethereum state
+
