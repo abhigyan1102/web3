@@ -108,3 +108,5 @@
 
 - Reviewed optimistic vs zk rollup tradeoffs
 
+- Explored Chainlink CCIP cross-chain interoperability
+
