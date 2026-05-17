@@ -93,3 +93,8 @@
 
 - Reviewed WebAssembly smart contract runtimes
 
+
+## May 17, 2026
+
+- Studied privacy-preserving transaction techniques
+
