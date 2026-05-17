@@ -104,3 +104,5 @@
 
 - Explored EIP-1559 fee market mechanism
 
+- Studied Merkle Patricia trie data structures
+
