@@ -116,3 +116,8 @@
 
 - Studied blob transactions and EIP-4844 proto-danksharding
 
+
+## May 18, 2026
+
+- Reviewed ERC-721A batch minting optimizations
+
