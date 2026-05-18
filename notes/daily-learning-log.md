@@ -121,3 +121,5 @@
 
 - Reviewed ERC-721A batch minting optimizations
 
+- Explored Solana token extensions program
+
