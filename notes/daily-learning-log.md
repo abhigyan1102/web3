@@ -173,3 +173,5 @@
 
 - Studied Cosmos IBC protocol and interchain accounts
 
+- Explored Polkadot parachain slot auction mechanism
+
