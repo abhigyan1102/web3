@@ -168,3 +168,8 @@
 
 - Explored NEAR Protocol sharding architecture
 
+
+## May 24, 2026
+
+- Studied Cosmos IBC protocol and interchain accounts
+
