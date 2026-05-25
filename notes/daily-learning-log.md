@@ -184,3 +184,8 @@
 
 - Reviewed Hardhat network forking for mainnet testing
 
+
+## May 25, 2026
+
+- Studied liquid staking derivatives and LST protocol design
+
