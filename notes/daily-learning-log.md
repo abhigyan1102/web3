@@ -189,3 +189,8 @@
 
 - Studied liquid staking derivatives and LST protocol design
 
+
+## May 27, 2026
+
+- Studied Ethereum proposer-builder separation architecture
+
