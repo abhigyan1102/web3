@@ -196,3 +196,5 @@
 
 - Explored Aztec Network private smart contract execution
 
+- Reviewed Solidity storage layout and slot packing strategies
+
