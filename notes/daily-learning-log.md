@@ -194,3 +194,5 @@
 
 - Studied Ethereum proposer-builder separation architecture
 
+- Explored Aztec Network private smart contract execution
+
