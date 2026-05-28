@@ -198,3 +198,8 @@
 
 - Reviewed Solidity storage layout and slot packing strategies
 
+
+## May 28, 2026
+
+- Studied account abstraction wallet SDK integration patterns
+
