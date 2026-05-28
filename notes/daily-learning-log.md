@@ -203,3 +203,5 @@
 
 - Studied account abstraction wallet SDK integration patterns
 
+- Explored Wormhole cross-chain message passing architecture
+
