@@ -205,3 +205,8 @@
 
 - Explored Wormhole cross-chain message passing architecture
 
+
+## May 29, 2026
+
+- Studied decentralized sequencer designs for L2 rollups
+
