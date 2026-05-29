@@ -210,3 +210,5 @@
 
 - Studied decentralized sequencer designs for L2 rollups
 
+- Explored threshold signature schemes for distributed key management
+
