@@ -212,3 +212,8 @@
 
 - Explored threshold signature schemes for distributed key management
 
+
+## May 30, 2026
+
+- Studied ERC-7579 minimal modular smart accounts
+
