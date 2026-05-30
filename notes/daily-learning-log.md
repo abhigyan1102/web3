@@ -219,3 +219,5 @@
 
 - Explored Penumbra shielded DEX and private staking
 
+- Researched Solidity transient storage (EIP-1153) use cases
+
