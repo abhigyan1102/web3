@@ -221,3 +221,5 @@
 
 - Researched Solidity transient storage (EIP-1153) use cases
 
+- Learned about based rollups and shared sequencing
+
