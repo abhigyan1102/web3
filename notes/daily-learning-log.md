@@ -223,3 +223,5 @@
 
 - Learned about based rollups and shared sequencing
 
+- Reviewed DID document key rotation and versioning
+
