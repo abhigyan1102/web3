@@ -217,3 +217,5 @@
 
 - Studied ERC-7579 minimal modular smart accounts
 
+- Explored Penumbra shielded DEX and private staking
+
