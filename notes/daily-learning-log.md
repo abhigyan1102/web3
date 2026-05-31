@@ -225,3 +225,8 @@
 
 - Reviewed DID document key rotation and versioning
 
+
+## May 31, 2026
+
+- Studied Ethereum EOF (EVM Object Format) upgrade changes
+
