@@ -230,3 +230,5 @@
 
 - Studied Ethereum EOF (EVM Object Format) upgrade changes
 
+- Explored Halo2 proving system for recursive SNARKs
+
