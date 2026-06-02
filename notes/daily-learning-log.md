@@ -239,3 +239,5 @@
 
 - Explored EigenDA and restaked rollup security models
 
+- Researched Solidity CREATE2 deterministic deployment patterns
+
