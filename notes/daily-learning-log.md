@@ -232,3 +232,8 @@
 
 - Explored Halo2 proving system for recursive SNARKs
 
+
+## June 2, 2026
+
+- Studied Celestia modular data availability layer architecture
+
