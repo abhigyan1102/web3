@@ -243,3 +243,5 @@
 
 - Learned about Espresso sequencer shared ordering layer
 
+- Reviewed Avail data attestation bridge mechanism
+
