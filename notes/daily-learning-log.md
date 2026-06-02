@@ -241,3 +241,5 @@
 
 - Researched Solidity CREATE2 deterministic deployment patterns
 
+- Learned about Espresso sequencer shared ordering layer
+
