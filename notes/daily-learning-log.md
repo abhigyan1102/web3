@@ -237,3 +237,5 @@
 
 - Studied Celestia modular data availability layer architecture
 
+- Explored EigenDA and restaked rollup security models
+
