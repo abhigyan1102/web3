@@ -250,3 +250,5 @@
 
 - Studied FHE (Fully Homomorphic Encryption) for on-chain computation
 
+- Explored Stylus SDK for writing Arbitrum contracts in Rust
+
