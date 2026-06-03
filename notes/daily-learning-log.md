@@ -252,3 +252,5 @@
 
 - Explored Stylus SDK for writing Arbitrum contracts in Rust
 
+- Reviewed DIDComm v2 messaging protocol for agent communication
+
