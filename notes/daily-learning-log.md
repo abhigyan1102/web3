@@ -245,3 +245,8 @@
 
 - Reviewed Avail data attestation bridge mechanism
 
+
+## June 3, 2026
+
+- Studied FHE (Fully Homomorphic Encryption) for on-chain computation
+
