@@ -308,3 +308,8 @@
 
 - Reviewed Solana compressed NFT state trees and concurrent merkle trees
 
+
+## June 4, 2026
+
+- Studied Solidity delegatecall patterns and proxy contract security
+
