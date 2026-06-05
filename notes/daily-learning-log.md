@@ -259,3 +259,5 @@
 
 - Studied ZK coprocessor design for off-chain verifiable computation
 
+- Explored Biconomy smart account SDK and paymaster integration
+
