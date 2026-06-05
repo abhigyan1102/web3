@@ -254,3 +254,8 @@
 
 - Reviewed DIDComm v2 messaging protocol for agent communication
 
+
+## June 5, 2026
+
+- Studied ZK coprocessor design for off-chain verifiable computation
+
