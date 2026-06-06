@@ -261,3 +261,8 @@
 
 - Explored Biconomy smart account SDK and paymaster integration
 
+
+## June 6, 2026
+
+- Studied Pectra upgrade EIPs and validator consolidation changes
+
