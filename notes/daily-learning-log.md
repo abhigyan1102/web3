@@ -266,3 +266,5 @@
 
 - Studied Pectra upgrade EIPs and validator consolidation changes
 
+- Explored Move language resource-oriented programming model
+
