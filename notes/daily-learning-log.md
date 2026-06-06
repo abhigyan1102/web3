@@ -268,3 +268,5 @@
 
 - Explored Move language resource-oriented programming model
 
+- Reviewed Hyperledger Besu permissioned network node configuration
+
