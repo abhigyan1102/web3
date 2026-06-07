@@ -279,3 +279,5 @@
 
 - Researched Anchor framework for Solana program development
 
+- Reviewed OpenZeppelin Defender for smart contract operations
+
