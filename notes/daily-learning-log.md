@@ -275,3 +275,5 @@
 
 - Studied Tornado Cash governance attack and reentrancy vectors
 
+- Explored Safe multisig module architecture and guard hooks
+
