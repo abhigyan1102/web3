@@ -277,3 +277,5 @@
 
 - Explored Safe multisig module architecture and guard hooks
 
+- Researched Anchor framework for Solana program development
+
