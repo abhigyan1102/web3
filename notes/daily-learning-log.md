@@ -270,3 +270,8 @@
 
 - Reviewed Hyperledger Besu permissioned network node configuration
 
+
+## June 7, 2026
+
+- Studied Tornado Cash governance attack and reentrancy vectors
+
