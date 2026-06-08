@@ -286,3 +286,5 @@
 
 - Studied Superchain interoperability and OP Stack shared bridging
 
+- Explored Starknet Cairo language and Sierra intermediate representation
+
