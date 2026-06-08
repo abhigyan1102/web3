@@ -290,3 +290,5 @@
 
 - Researched Hyperledger Identus PRISM agent deployment patterns
 
+- Reviewed ERC-7683 cross-chain intent standard specification
+
