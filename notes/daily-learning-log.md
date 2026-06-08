@@ -281,3 +281,8 @@
 
 - Reviewed OpenZeppelin Defender for smart contract operations
 
+
+## June 8, 2026
+
+- Studied Superchain interoperability and OP Stack shared bridging
+
