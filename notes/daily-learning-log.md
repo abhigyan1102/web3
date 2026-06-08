@@ -288,3 +288,5 @@
 
 - Explored Starknet Cairo language and Sierra intermediate representation
 
+- Researched Hyperledger Identus PRISM agent deployment patterns
+
