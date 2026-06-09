@@ -297,3 +297,5 @@
 
 - Studied LibP2P networking stack for decentralized node communication
 
+- Explored ERC-6551 token-bound accounts and NFT wallet composability
+
