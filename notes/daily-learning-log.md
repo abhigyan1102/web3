@@ -299,3 +299,8 @@
 
 - Explored ERC-6551 token-bound accounts and NFT wallet composability
 
+
+## June 10, 2026
+
+- Studied Ethereum smart contract upgrade strategies and UUPS proxies
+
