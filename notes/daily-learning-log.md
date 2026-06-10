@@ -306,3 +306,5 @@
 
 - Explored Chainlink Functions for serverless off-chain computation
 
+- Reviewed Solana compressed NFT state trees and concurrent merkle trees
+
