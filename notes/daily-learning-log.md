@@ -304,3 +304,5 @@
 
 - Studied Ethereum smart contract upgrade strategies and UUPS proxies
 
+- Explored Chainlink Functions for serverless off-chain computation
+
