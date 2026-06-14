@@ -313,3 +313,8 @@
 
 - Studied Solidity delegatecall patterns and proxy contract security
 
+
+## June 14, 2026
+
+- Explored Sui Move object-centric blockchain data model
+
