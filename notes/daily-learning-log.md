@@ -333,3 +333,5 @@
 
 - Explored Hedera Hashgraph consensus and token service architecture
 
+- Reviewed Solana priority fees and compute unit optimization
+
