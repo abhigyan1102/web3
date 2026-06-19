@@ -328,3 +328,8 @@
 
 - Studied ERC-7702 set code transaction for EOA smart account migration
 
+
+## June 19, 2026
+
+- Explored Hedera Hashgraph consensus and token service architecture
+
