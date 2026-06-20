@@ -318,3 +318,8 @@
 
 - Explored Sui Move object-centric blockchain data model
 
+
+## June 18, 2026
+
+- Studied ERC-7702 set code transaction for EOA smart account migration
+

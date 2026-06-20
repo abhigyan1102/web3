@@ -6,3 +6,17 @@ coverage/
 coverage.json
 typechain-types/
 types/
+
+# Large subdirectories
+cacti/
+sdk-ts/
+besu/
+hiero-did-sdk-js/
+insforge/
+Identus-Identity-Portal-POC/
+otas-architecture-proposal/
+otas-github/
+otas-proposal/
+otas-tsc/
+identus-proposal/
+.DS_Store
