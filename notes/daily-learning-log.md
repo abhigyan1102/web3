@@ -335,3 +335,8 @@
 
 - Reviewed Solana priority fees and compute unit optimization
 
+
+## June 23, 2026
+
+- Studied Ethereum verkle tree migration path and state expiry proposals
+
