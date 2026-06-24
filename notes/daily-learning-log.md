@@ -340,3 +340,8 @@
 
 - Studied Ethereum verkle tree migration path and state expiry proposals
 
+
+## June 24, 2026
+
+- Explored Hyperlane permissionless interoperability protocol design
+
