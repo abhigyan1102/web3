@@ -350,3 +350,13 @@
 
 - Studied Gnosis Chain validator MEV-boost relay configuration
 
+
+## June 3, 2026 (contd.)
+
+- Studied Solana Blinks and Actions framework for on-chain interactions
+
+
+## July 3, 2026
+
+- Studied Solana Blinks and Actions framework for on-chain interactions
+
