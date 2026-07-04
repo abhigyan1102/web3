@@ -360,3 +360,8 @@
 
 - Studied Solana Blinks and Actions framework for on-chain interactions
 
+
+## July 4, 2026
+
+- Explored zkSync Era native account abstraction and paymaster flows
+
