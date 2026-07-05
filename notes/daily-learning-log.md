@@ -365,3 +365,8 @@
 
 - Explored zkSync Era native account abstraction and paymaster flows
 
+
+## July 5, 2026
+
+- Reviewed Polygon AggLayer unified bridge and pessimistic proof design
+
