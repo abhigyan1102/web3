@@ -370,3 +370,8 @@
 
 - Reviewed Polygon AggLayer unified bridge and pessimistic proof design
 
+
+## July 6, 2026
+
+- Studied Ethereum single slot finality proposal and SSF consensus changes
+
