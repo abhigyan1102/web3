@@ -375,3 +375,8 @@
 
 - Studied Ethereum single slot finality proposal and SSF consensus changes
 
+
+## July 7, 2026
+
+- Explored Noir language for zero-knowledge circuit development on Aztec
+
