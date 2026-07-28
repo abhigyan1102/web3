@@ -385,3 +385,5 @@
 
 - Studied Scroll zkEVM type-2 equivalence and bytecode compatibility
 
+- Explored Uniswap v4 singleton contract and flash accounting design
+
