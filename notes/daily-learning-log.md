@@ -380,3 +380,8 @@
 
 - Explored Noir language for zero-knowledge circuit development on Aztec
 
+
+## July 28, 2026
+
+- Studied Scroll zkEVM type-2 equivalence and bytecode compatibility
+
