@@ -438,3 +438,5 @@
 
 - Studied Mantle Network modular L2 architecture and MNT token utility
 
+- Explored Linea zkEVM prover design and finalization pipeline
+
