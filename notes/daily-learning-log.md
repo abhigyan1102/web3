@@ -440,3 +440,5 @@
 
 - Explored Linea zkEVM prover design and finalization pipeline
 
+- Reviewed Base chain OP Stack deployment and sequencer revenue model
+
