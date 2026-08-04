@@ -447,3 +447,5 @@
 
 - Studied Taiko based rollup ZK proof generation and proving market design
 
+- Reviewed W3C DID Core spec service endpoints and DID resolution metadata
+
