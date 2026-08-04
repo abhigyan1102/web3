@@ -442,3 +442,8 @@
 
 - Reviewed Base chain OP Stack deployment and sequencer revenue model
 
+
+## August 4, 2026
+
+- Studied Taiko based rollup ZK proof generation and proving market design
+
