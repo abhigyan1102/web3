@@ -449,3 +449,8 @@
 
 - Reviewed W3C DID Core spec service endpoints and DID resolution metadata
 
+
+## August 5, 2026
+
+- Explored Celestia light node data availability sampling and fraud proofs
+
