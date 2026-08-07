@@ -387,3 +387,8 @@
 
 - Explored Uniswap v4 singleton contract and flash accounting design
 
+
+## August 7, 2026
+
+- Studied Optimism fault proof system and dispute game architecture
+
