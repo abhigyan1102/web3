@@ -392,3 +392,5 @@
 
 - Studied Optimism fault proof system and dispute game architecture
 
+- Reviewed Ethereum blob gas market dynamics and rollup cost optimization
+
