@@ -404,3 +404,5 @@
 
 - Studied EigenLayer AVS dual-staking security models and slashing conditions
 
+- Explored Solana Alpenglow consensus mechanisms and vote transaction optimization
+
