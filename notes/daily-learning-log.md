@@ -394,3 +394,13 @@
 
 - Reviewed Ethereum blob gas market dynamics and rollup cost optimization
 
+
+## August 8, 2026
+
+- Studied EigenLayer AVS dual-staking security models and slashing conditions
+
+
+## August 8, 2026
+
+- Studied EigenLayer AVS dual-staking security models and slashing conditions
+
