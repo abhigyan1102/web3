@@ -406,3 +406,5 @@
 
 - Explored Solana Alpenglow consensus mechanisms and vote transaction optimization
 
+- Reviewed Hyperledger Identus agent-to-agent OOB invitation flows
+
