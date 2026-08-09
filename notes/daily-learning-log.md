@@ -417,3 +417,5 @@
 
 - Reviewed ERC-4337 bundler mempool validation rules and reputation scoring
 
+- Explored Cross-chain intent standard solver relay mechanics
+
