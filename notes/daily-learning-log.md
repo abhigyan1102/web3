@@ -408,3 +408,8 @@
 
 - Reviewed Hyperledger Identus agent-to-agent OOB invitation flows
 
+
+## August 9, 2026
+
+- Researched Arbitrum Stylus Rust memory management and host IO overhead
+
