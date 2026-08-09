@@ -413,3 +413,5 @@
 
 - Researched Arbitrum Stylus Rust memory management and host IO overhead
 
+- Studied ZK-rollups recursive proof aggregation and batch verification
+
