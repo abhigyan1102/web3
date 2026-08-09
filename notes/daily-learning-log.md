@@ -415,3 +415,5 @@
 
 - Studied ZK-rollups recursive proof aggregation and batch verification
 
+- Reviewed ERC-4337 bundler mempool validation rules and reputation scoring
+
