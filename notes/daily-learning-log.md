@@ -424,3 +424,5 @@
 
 - Studied Ethereum Pectra upgrade EIP-7702 smart account delegation patterns
 
+- Explored Decentralized Identity (DID) key revocation and recovery schemes
+
