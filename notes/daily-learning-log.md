@@ -431,3 +431,5 @@
 
 - Studied Cosmos SDK v0.52 modular app architecture and depinject framework
 
+- Explored Solidity transient storage opcodes for reentrancy guard optimization
+
