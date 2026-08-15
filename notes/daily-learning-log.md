@@ -426,3 +426,8 @@
 
 - Explored Decentralized Identity (DID) key revocation and recovery schemes
 
+
+## August 15, 2026
+
+- Studied Cosmos SDK v0.52 modular app architecture and depinject framework
+
