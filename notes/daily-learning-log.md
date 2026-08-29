@@ -459,3 +459,5 @@
 
 - Studied Ethereum EOF container format and legacy bytecode deprecation timeline
 
+- Explored Ink! smart contract framework for Polkadot parachains
+
