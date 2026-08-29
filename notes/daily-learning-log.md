@@ -454,3 +454,8 @@
 
 - Explored Celestia light node data availability sampling and fraud proofs
 
+
+## August 29, 2026
+
+- Studied Ethereum EOF container format and legacy bytecode deprecation timeline
+
