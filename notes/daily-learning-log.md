@@ -466,3 +466,5 @@
 
 - Studied Fuel Network parallel transaction execution and UTXO-based model
 
+- Explored Sway language smart contract patterns on Fuel VM
+
