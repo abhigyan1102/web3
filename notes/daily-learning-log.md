@@ -461,3 +461,8 @@
 
 - Explored Ink! smart contract framework for Polkadot parachains
 
+
+## September 1, 2026
+
+- Studied Fuel Network parallel transaction execution and UTXO-based model
+
