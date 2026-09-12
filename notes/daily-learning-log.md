@@ -478,3 +478,5 @@
 
 - Studied Babylon Chain Bitcoin staking protocol and finality gadget design
 
+- Reviewed Merlin Chain Bitcoin L2 ZK fraud proof verification mechanism
+
