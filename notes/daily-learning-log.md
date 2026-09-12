@@ -468,3 +468,13 @@
 
 - Explored Sway language smart contract patterns on Fuel VM
 
+
+## September 12, 2026
+
+- Studied Babylon Chain Bitcoin staking protocol and finality gadget design
+
+
+## September 12, 2026
+
+- Studied Babylon Chain Bitcoin staking protocol and finality gadget design
+
