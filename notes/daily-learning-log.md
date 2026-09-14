@@ -485,3 +485,5 @@
 
 - Studied Berachain proof of liquidity consensus and BGT token mechanics
 
+- Explored Monad parallel EVM execution and optimistic concurrency control
+
