@@ -487,3 +487,5 @@
 
 - Explored Monad parallel EVM execution and optimistic concurrency control
 
+- Reviewed MegaETH real-time blockchain architecture and node specialization
+
