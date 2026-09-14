@@ -480,3 +480,8 @@
 
 - Reviewed Merlin Chain Bitcoin L2 ZK fraud proof verification mechanism
 
+
+## September 14, 2026
+
+- Studied Berachain proof of liquidity consensus and BGT token mechanics
+
