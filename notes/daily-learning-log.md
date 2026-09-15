@@ -494,3 +494,5 @@
 
 - Studied Lens Protocol V3 open social graph and sponsorship mechanics
 
+- Explored Farcaster Frames and onchain action composability patterns
+
