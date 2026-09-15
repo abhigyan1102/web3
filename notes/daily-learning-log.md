@@ -496,3 +496,5 @@
 
 - Explored Farcaster Frames and onchain action composability patterns
 
+- Reviewed Nostr protocol key management and relay discovery mechanisms
+
