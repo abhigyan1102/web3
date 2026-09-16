@@ -498,3 +498,8 @@
 
 - Reviewed Nostr protocol key management and relay discovery mechanisms
 
+
+## September 16, 2026
+
+- Studied Aptos Move VM parallel execution engine and Block-STM algorithm
+
