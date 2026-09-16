@@ -503,3 +503,5 @@
 
 - Studied Aptos Move VM parallel execution engine and Block-STM algorithm
 
+- Explored Sei Network optimistic parallelization and order matching engine
+
