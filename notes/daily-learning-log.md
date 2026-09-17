@@ -510,3 +510,5 @@
 
 - Studied Plonky3 recursive proof system and FRI-based polynomial commitments
 
+- Explored SP1 zkVM and RISC-V execution trace proving architecture
+
