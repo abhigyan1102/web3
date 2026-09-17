@@ -505,3 +505,8 @@
 
 - Explored Sei Network optimistic parallelization and order matching engine
 
+
+## September 17, 2026
+
+- Studied Plonky3 recursive proof system and FRI-based polynomial commitments
+
