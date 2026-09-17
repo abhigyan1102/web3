@@ -512,3 +512,5 @@
 
 - Explored SP1 zkVM and RISC-V execution trace proving architecture
 
+- Reviewed Jolt zkVM lookup argument and offline memory checking design
+
