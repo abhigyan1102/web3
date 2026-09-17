@@ -514,3 +514,5 @@
 
 - Reviewed Jolt zkVM lookup argument and offline memory checking design
 
+- Researched Valida zkVM constraint system and minimal ISA design choices
+
