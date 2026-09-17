@@ -516,3 +516,5 @@
 
 - Researched Valida zkVM constraint system and minimal ISA design choices
 
+- Learned about Nexus zkVM parallelized proving and proof compression
+
