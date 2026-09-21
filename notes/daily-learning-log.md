@@ -518,3 +518,8 @@
 
 - Learned about Nexus zkVM parallelized proving and proof compression
 
+
+## September 21, 2026
+
+- Studied Ethereum Fusaka upgrade scope and EOF finalization timeline
+
