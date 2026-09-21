@@ -527,3 +527,5 @@
 
 - Reviewed Optimism Granite upgrade and fault proof system improvements
 
+- Researched zkSync Boojum prover performance benchmarks and proving costs
+
