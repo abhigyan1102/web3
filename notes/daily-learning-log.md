@@ -523,3 +523,5 @@
 
 - Studied Ethereum Fusaka upgrade scope and EOF finalization timeline
 
+- Explored Arbitrum BoLD challenge protocol and permissionless validation
+
