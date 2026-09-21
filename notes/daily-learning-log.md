@@ -525,3 +525,5 @@
 
 - Explored Arbitrum BoLD challenge protocol and permissionless validation
 
+- Reviewed Optimism Granite upgrade and fault proof system improvements
+
