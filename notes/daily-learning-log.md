@@ -529,3 +529,5 @@
 
 - Researched zkSync Boojum prover performance benchmarks and proving costs
 
+- Learned about Polygon zkEVM type-1 prover and full Ethereum equivalence
+
