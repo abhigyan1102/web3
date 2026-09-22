@@ -536,3 +536,5 @@
 
 - Studied Uniswap v4 hooks architecture and custom liquidity logic
 
+- Explored Curve stableswap invariant and concentrated liquidity design
+
