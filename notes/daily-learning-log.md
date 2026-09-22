@@ -538,3 +538,5 @@
 
 - Explored Curve stableswap invariant and concentrated liquidity design
 
+- Reviewed Balancer v3 vault architecture and ERC-4626 integration
+
