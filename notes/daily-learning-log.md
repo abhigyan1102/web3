@@ -531,3 +531,8 @@
 
 - Learned about Polygon zkEVM type-1 prover and full Ethereum equivalence
 
+
+## September 22, 2026
+
+- Studied Uniswap v4 hooks architecture and custom liquidity logic
+
