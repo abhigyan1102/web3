@@ -545,3 +545,5 @@
 
 - Studied Aave v3 efficiency mode and cross-chain liquidity portals
 
+- Explored Compound v3 comet architecture and single-asset borrow model
+
