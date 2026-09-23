@@ -540,3 +540,8 @@
 
 - Reviewed Balancer v3 vault architecture and ERC-4626 integration
 
+
+## September 23, 2026
+
+- Studied Aave v3 efficiency mode and cross-chain liquidity portals
+
