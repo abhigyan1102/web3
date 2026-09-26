@@ -547,3 +547,8 @@
 
 - Explored Compound v3 comet architecture and single-asset borrow model
 
+
+## September 26, 2026
+
+- Studied Morpho Blue singleton lending protocol and market creation mechanics
+
