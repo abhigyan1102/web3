@@ -552,3 +552,5 @@
 
 - Studied Morpho Blue singleton lending protocol and market creation mechanics
 
+- Explored Spark Protocol DAI savings rate and Maker SubDAO architecture
+
