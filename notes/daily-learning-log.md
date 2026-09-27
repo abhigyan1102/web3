@@ -565,3 +565,5 @@
 
 - Studied Liquity v2 user-set interest rates and bold stablecoin design
 
+- Explored Gyroscope GYD stablecoin and all-weather reserve design
+
