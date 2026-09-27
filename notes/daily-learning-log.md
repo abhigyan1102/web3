@@ -554,3 +554,8 @@
 
 - Explored Spark Protocol DAI savings rate and Maker SubDAO architecture
 
+
+## September 27, 2026
+
+- Studied Pendle Finance yield tokenization and principal-yield separation
+
