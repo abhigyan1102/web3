@@ -563,3 +563,5 @@
 
 - Researched Frax Finance v3 frxETH liquid staking and sFRAX yield
 
+- Studied Liquity v2 user-set interest rates and bold stablecoin design
+
