@@ -561,3 +561,5 @@
 
 - Explored Ethena USDe synthetic dollar and delta-neutral hedging mechanics
 
+- Researched Frax Finance v3 frxETH liquid staking and sFRAX yield
+
