@@ -559,3 +559,5 @@
 
 - Studied Pendle Finance yield tokenization and principal-yield separation
 
+- Explored Ethena USDe synthetic dollar and delta-neutral hedging mechanics
+
