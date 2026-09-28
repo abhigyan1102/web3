@@ -576,3 +576,5 @@
 
 - Studied Chainlink CCIP cross-chain token pool and rate limiting design
 
+- Explored LayerZero v2 DVN configurable security stack and executor model
+
