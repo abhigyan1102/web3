@@ -572,3 +572,5 @@
 
 - Studied Superfluid streaming money protocol and real-time finance primitives
 
+- Reviewed Sablier v2 lockup streams and non-linear vesting schedules
+
