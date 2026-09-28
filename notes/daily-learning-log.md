@@ -574,3 +574,5 @@
 
 - Reviewed Sablier v2 lockup streams and non-linear vesting schedules
 
+- Studied Chainlink CCIP cross-chain token pool and rate limiting design
+
