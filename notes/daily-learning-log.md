@@ -567,3 +567,8 @@
 
 - Explored Gyroscope GYD stablecoin and all-weather reserve design
 
+
+## September 28, 2026
+
+- Studied Superfluid streaming money protocol and real-time finance primitives
+
