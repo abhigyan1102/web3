@@ -585,3 +585,5 @@
 
 - Explored GMX v2 isolated markets and synthetic asset price impact model
 
+- Reviewed Hyperliquid perps DEX L1 vault architecture and HLP design
+
