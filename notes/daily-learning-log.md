@@ -583,3 +583,5 @@
 
 - Studied dYdX v4 fully decentralized orderbook on Cosmos app-chain
 
+- Explored GMX v2 isolated markets and synthetic asset price impact model
+
