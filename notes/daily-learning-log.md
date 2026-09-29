@@ -578,3 +578,8 @@
 
 - Explored LayerZero v2 DVN configurable security stack and executor model
 
+
+## September 29, 2026
+
+- Studied dYdX v4 fully decentralized orderbook on Cosmos app-chain
+
