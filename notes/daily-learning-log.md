@@ -592,3 +592,5 @@
 
 - Studied EigenLayer Slasher contract and operator opt-in security guarantees
 
+- Explored Symbiotic restaking protocol and collateral vault architecture
+
