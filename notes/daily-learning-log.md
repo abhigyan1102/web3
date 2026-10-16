@@ -587,3 +587,8 @@
 
 - Reviewed Hyperliquid perps DEX L1 vault architecture and HLP design
 
+
+## October 16, 2026
+
+- Studied EigenLayer Slasher contract and operator opt-in security guarantees
+
