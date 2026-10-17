@@ -594,3 +594,8 @@
 
 - Explored Symbiotic restaking protocol and collateral vault architecture
 
+
+## October 17, 2026
+
+- Studied Karak Network multi-asset restaking and DSS operator registry
+
