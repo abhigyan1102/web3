@@ -599,3 +599,5 @@
 
 - Studied Karak Network multi-asset restaking and DSS operator registry
 
+- Explored Renzo Protocol ezETH liquid restaking token and operator set design
+
