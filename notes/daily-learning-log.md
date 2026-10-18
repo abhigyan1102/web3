@@ -608,3 +608,5 @@
 
 - Explored Puffer Finance UniFi rollup and native restaking validator tickets
 
+- Reviewed Kelp DAO rsETH multi-asset restaking aggregator and reward distribution
+
