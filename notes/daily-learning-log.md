@@ -606,3 +606,5 @@
 
 - Studied Ether.fi eETH non-custodial liquid restaking and node operator withdrawal flow
 
+- Explored Puffer Finance UniFi rollup and native restaking validator tickets
+
