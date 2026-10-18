@@ -601,3 +601,8 @@
 
 - Explored Renzo Protocol ezETH liquid restaking token and operator set design
 
+
+## October 18, 2026
+
+- Studied Ether.fi eETH non-custodial liquid restaking and node operator withdrawal flow
+
