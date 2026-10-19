@@ -615,3 +615,5 @@
 
 - Studied Babylon Chain Bitcoin staking protocol and finality provider slashing
 
+- Explored Jito Network MEV auction and tip distribution for Solana validators
+
