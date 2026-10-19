@@ -610,3 +610,8 @@
 
 - Reviewed Kelp DAO rsETH multi-asset restaking aggregator and reward distribution
 
+
+## October 19, 2026
+
+- Studied Babylon Chain Bitcoin staking protocol and finality provider slashing
+
