@@ -619,3 +619,8 @@
 
 - Reviewed Sanctum Reserve LST aggregator and unlimited LST liquidity model on Solana
 
+
+## October 20, 2026
+
+- Studied Kamino Finance concentrated liquidity vaults and automated rebalancing on Solana
+
