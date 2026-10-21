@@ -624,3 +624,8 @@
 
 - Studied Kamino Finance concentrated liquidity vaults and automated rebalancing on Solana
 
+
+## October 21, 2026
+
+- Explored Drift Protocol v2 cross-margin perpetuals and insurance fund staking on Solana
+
