@@ -629,3 +629,8 @@
 
 - Explored Drift Protocol v2 cross-margin perpetuals and insurance fund staking on Solana
 
+
+## October 22, 2026
+
+- Studied Marinade Finance mSOL liquid staking and stake auction marketplace on Solana
+
