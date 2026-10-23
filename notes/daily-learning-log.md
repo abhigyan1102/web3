@@ -634,3 +634,13 @@
 
 - Studied Marinade Finance mSOL liquid staking and stake auction marketplace on Solana
 
+
+## October 23, 2026
+
+- Studied Jupiter DEX aggregator v6 route optimization and exact-out swaps on Solana
+
+
+## October 23, 2026
+
+- Studied Jupiter DEX aggregator v6 route optimization and exact-out swaps on Solana
+
