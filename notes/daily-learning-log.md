@@ -644,3 +644,7 @@
 
 - Studied Jupiter DEX aggregator v6 route optimization and exact-out swaps on Solana
 
+- Explored Raydium CLMM concentrated liquidity and CPMM pool mechanics on Solana
+
+- Explored Raydium CLMM concentrated liquidity and CPMM pool mechanics on Solana
+
